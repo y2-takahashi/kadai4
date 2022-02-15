@@ -1,0 +1,20 @@
+h1{
+  width: 600px;
+}
+#clock{
+  font-size: 30px;
+}
+#field{
+  width: 600px;
+}
+  .card{
+    width: 70px;
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+    border: 2px solid #aaa;
+    border-radius: 5px;
+    font-size: 30px;
+    margin: 8px;
+    float: left;
+  }
